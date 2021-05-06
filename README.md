@@ -23,3 +23,4 @@
     El funcionamiento es muy sencillo. Las empresas que se dedican a prestar servicios de almacenamiento en la nube, habilitan unos servidores donde se ofrece espacios donde guardar nuestros datos. Las personas y empresas que lo deseen, los contratan y hacen uso de este tipo de almacenamiento.
 
     Para el correcto funcionamiento de este tipo de servicios participan dos partes: Front End y Back End. El Front End es la parte formada por el ordenador del cliente y la aplicación que necesita para hacer uso del sistema. Por otra parte, en el Back End se sitúan los servidores y sistemas de almacenamiento de datos que prestan el servicio en la nube.
+![Nube](/assets/images/nube-hibrida.jpg "La nube Hibridad :0")
