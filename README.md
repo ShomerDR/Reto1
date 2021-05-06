@@ -32,3 +32,7 @@ Para el correcto funcionamiento de este tipo de servicios participan dos partes:
 
 ### SaaS (Software as a Service): todo incluido
  - El SaaS es el servicio más conocido. Engloba los dos anteriores y además el proveedor se ocupa de la instalación, configuración, el funcionamiento y el mantenimiento de la interfaz.
+
+
+Esos son algunos conceptos sobre la nube y que pueden ser importantes, Gracias por leer! :D
+![gatoanigif_enhanced-10222-1396974083-3](https://user-images.githubusercontent.com/83773490/117372572-5c7a3000-ae8f-11eb-9431-aa0fa029b027.gif)
