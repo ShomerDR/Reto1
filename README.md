@@ -25,3 +25,5 @@
     Para el correcto funcionamiento de este tipo de servicios participan dos partes: Front End y Back End. El Front End es la parte formada por el ordenador del cliente y la aplicación que necesita para hacer uso del sistema. Por otra parte, en el Back End se sitúan los servidores y sistemas de almacenamiento de datos que prestan el servicio en la nube.
 ![nube-hibrida](https://user-images.githubusercontent.com/83773490/117370928-b5949480-ae8c-11eb-8083-d68ae1971945.jpg)
 
+### Modelos De Servicio De La Computación En La Nube
+    En la actualidad, las soluciones en la nube pueden desplegarse en tres modelos de servicio diferentes, conocidos como Software como Servicio (SaaS), Plataforma como Servicio (PaaS), e Infraestructura como Servicio (IaaS). Cada uno de estos modelos se ofrece con el fin de resolver requerimientos diferentes basados en las necesidades específicas de cada empresa.
