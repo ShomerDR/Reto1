@@ -26,4 +26,4 @@
 ![nube-hibrida](https://user-images.githubusercontent.com/83773490/117370928-b5949480-ae8c-11eb-8083-d68ae1971945.jpg)
 
 ### Modelos De Servicio De La Computación En La Nube
-    En la actualidad, las soluciones en la nube pueden desplegarse en tres modelos de servicio diferentes, conocidos como Software como Servicio (SaaS), Plataforma como Servicio (PaaS), e Infraestructura como Servicio (IaaS). Cada uno de estos modelos se ofrece con el fin de resolver requerimientos diferentes basados en las necesidades específicas de cada empresa.
+    -En la actualidad, las soluciones en la nube pueden desplegarse en tres modelos de servicio diferentes, conocidos como Software como Servicio (SaaS), Plataforma como Servicio (PaaS), e Infraestructura como Servicio (IaaS). Cada uno de estos modelos se ofrece con el fin de resolver requerimientos diferentes basados en las necesidades específicas de cada empresa.
